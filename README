@@ -1,0 +1,18 @@
+#/bin/interest_towards_physics -
+Yo! Thanks for downloading phyphy. This program is designed to simulate physical phenomenon according to
+old physics. I believe that this program helps students to understand how fun physics is! ....maybe?
+
+You can see documantation of this app from here 'http://leotom.890m.com/cowboy/apps/phyphy.html'
+Phyphy is open sourced program. you can see and compile source code from the file that this foulder contains.
+
+You may redistribute this application with or without moddifying it. And you may redistribute it under the lisence
+whatever you want to use.
+If you dont mind I want you to link my website 'http://leotom.890m.com/' when you redistribute it.
+I wont force ya to do so cuz I know dat no one is gonna redistribute it anyways...
+
+Anyway! Enjoy your experience of physics!!
+
+This application uses ini4j library which you can download from here 'http://ini4j.sourceforge.net/' 
+You will need it to compile source code.
+
+Copyright (c) 2017, Reo Leo Tomura
