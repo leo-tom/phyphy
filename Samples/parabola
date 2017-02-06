@@ -1,0 +1,39 @@
+[graph1]
+color=red
+x=t-20
+y=(x-2)(x+2)
+#size=0 means object is mass point
+size=0.5
+mass=0
+charge=0
+
+[graph2]
+color=green
+x=t-20
+y=-(x-4)(x+4)
+#size=0 means object is mass point
+size=0.5
+mass=0
+charge=0
+
+[graph3]
+color=pink
+x=t-20
+y=-(1/2) * (x-6)(x-6) + 7
+#size=0 means object is mass point
+size=0.5
+mass=0
+charge=0
+
+[universe]
+timeLimit=40
+zoom=10
+delta_t=5e-3
+gravity=0
+status=0
+format=%.3f
+permittivity=8.854e-12
+afterImage=1
+sleep=0
+t=0
+LazyDraw=5

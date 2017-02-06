@@ -1,0 +1,35 @@
+BEGIN{
+for(n=1;n<=1000;n++){
+  random = int(rand() * 100);
+  random2 = int(rand() * 100);
+  randomy = int(rand()*100) + rand();
+  print "[OBJECT " n "]"
+  if(random%2 == 1){
+    print "x=" (random % 50) + rand()
+  }else{
+    print "x=-" (random % 50) + rand()
+  }
+  print "y=" randomy 
+  if(random2 %2 == 1){
+    print "charge=-1e-5"
+    print "color=blue"
+  }else{
+    print "charge=1e-5"
+    print "color=red"
+  }
+  print "mass=1e-2"
+  print "v=0"
+  print "size=1"
+}
+print "[universe]"
+print "afterImage=1"
+print "timeLimit=0"
+print "fineness=5e-3"
+print "zoom=1e-2"
+print "gravity=0"
+print "sleep=0"
+print "status=0"
+print "thread=8"
+print "#LaztDraw=200"
+print "#Uncomment dis to make its speed ok"
+} 

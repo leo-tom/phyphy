@@ -1,0 +1,809 @@
+ 
+[OBJECT 1]
+x=23.5855
+y=84.1522
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 2]
+x=19.1519
+y=17.485
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 3]
+x=-36.8932
+y=91.2653
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 4]
+x=-22.1045
+y=57.3322
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 5]
+x=-0.108022
+y=85.0401
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 6]
+x=13.4829
+y=72.1018
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 7]
+x=25.7203
+y=89.7599
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 8]
+x=-40.7789
+y=37.8998
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 9]
+x=-32.708
+y=99.1613
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 10]
+x=-0.209205
+y=71.1052
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 11]
+x=5.1962
+y=7.51053
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 12]
+x=27.4673
+y=44.0399
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 13]
+x=7.6889
+y=16.3978
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 14]
+x=3.27656
+y=27.4659
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 15]
+x=45.9456
+y=8.45389
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 16]
+x=35.8663
+y=1.23451
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 17]
+x=43.9443
+y=87.3769
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 18]
+x=29.5992
+y=94.5861
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 19]
+x=31.8352
+y=90.1585
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 20]
+x=23.0484
+y=21.1198
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 21]
+x=-42.6231
+y=10.4289
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 22]
+x=11.9259
+y=48.9896
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 23]
+x=-14.2214
+y=95.516
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 24]
+x=29.9192
+y=0.28057
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 25]
+x=-36.9904
+y=87.9523
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 26]
+x=15.4588
+y=23.7718
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 27]
+x=23.8589
+y=47.9238
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 28]
+x=-44.322
+y=34.201
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 29]
+x=33.6439
+y=43.8744
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 30]
+x=1.47633
+y=83.6377
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 31]
+x=-42.3487
+y=60.9275
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 32]
+x=25.4702
+y=24.9784
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 33]
+x=-18.6023
+y=85.2765
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 34]
+x=-20.1577
+y=75.3777
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 35]
+x=-14.9507
+y=56.2033
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 36]
+x=-40.7544
+y=64.9442
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 37]
+x=-26.7351
+y=96.3279
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 38]
+x=-10.2509
+y=55.7026
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 39]
+x=-48.647
+y=71.4499
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 40]
+x=-12.2489
+y=90.8492
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 41]
+x=9.02408
+y=11.4534
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 42]
+x=-46.3922
+y=97.4973
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 43]
+x=23.7775
+y=34.7684
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 44]
+x=-38.326
+y=66.9147
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 45]
+x=7.50548
+y=2.70338
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 46]
+x=35.0775
+y=23.9416
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 47]
+x=33.6528
+y=37.0176
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 48]
+x=21.6984
+y=36.2752
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 49]
+x=-34.8436
+y=4.80233
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 50]
+x=-30.0386
+y=86.4768
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 51]
+x=9.29231
+y=54.0324
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 52]
+x=1.27304
+y=10.2285
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 53]
+x=17.6639
+y=27.8687
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 54]
+x=-28.0551
+y=25.7196
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 55]
+x=3.02458
+y=92.1555
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 56]
+x=37.6148
+y=91.3016
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 57]
+x=27.6407
+y=51.0899
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 58]
+x=-16.859
+y=87.2266
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 59]
+x=9.16342
+y=11.9493
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 60]
+x=3.83693
+y=20.4197
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 61]
+x=-20.8085
+y=17.5213
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 62]
+x=35.4322
+y=49.3002
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 63]
+x=29.6992
+y=81.4056
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 64]
+x=-24.0401
+y=56.5793
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 65]
+x=-14.8515
+y=64.8258
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 66]
+x=-12.674
+y=65.4395
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 67]
+x=43.2735
+y=70.7417
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 68]
+x=19.8861
+y=37.7476
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 69]
+x=-30.1866
+y=71.9951
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 70]
+x=-20.4616
+y=43.0964
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 71]
+x=33.5468
+y=41.5115
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 72]
+x=15.8604
+y=77.3075
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 73]
+x=-6.00754
+y=32.5275
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 74]
+x=-18.0183
+y=51.3659
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 75]
+x=1.32228
+y=24.5462
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 76]
+x=13.7614
+y=24.4854
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 77]
+x=-32.4733
+y=94.0969
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 78]
+x=-12.9205
+y=80.9259
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 79]
+x=7.27709
+y=69.625
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 80]
+x=-48.5502
+y=99.1971
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 81]
+x=-42.4672
+y=56.3636
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 82]
+x=-18.8651
+y=36.0712
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 83]
+x=29.7487
+y=85.19
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 84]
+x=-16.4932
+y=22.8843
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 85]
+x=-26.9851
+y=43.4994
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 86]
+x=-30.736
+y=84.0288
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 87]
+x=25.9651
+y=63.1505
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 88]
+x=21.7601
+y=8.21744
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 89]
+x=-0.487336
+y=24.5784
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 90]
+x=43.0778
+y=0.129245
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 91]
+x=37.3216
+y=72.3032
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 92]
+x=1.62642
+y=91.9004
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 93]
+x=-12.9764
+y=37.301
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 94]
+x=3.7349
+y=36.5542
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 95]
+x=-10.7345
+y=3.33827
+charge=-1e-5
+color=blue
+mass=1e-2
+v=0
+size=1
+[OBJECT 96]
+x=9.37535
+y=53.6974
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 97]
+x=-10.816
+y=97.243
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 98]
+x=-24.877
+y=73.0417
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 99]
+x=21.3542
+y=48.7364
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[OBJECT 100]
+x=49.0759
+y=10.3178
+charge=1e-5
+color=red
+mass=1e-2
+v=0
+size=1
+[universe]
+afterImage=1
+timeLimit=0
+fineness=1e-2
+zoom=1e-2
+gravity=0
+sleep=0
+status=0

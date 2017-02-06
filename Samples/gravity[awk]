@@ -1,0 +1,36 @@
+BEGIN{
+for(n=1;n<=300;n++){
+  random = int(rand() * 10);
+  randomy = int(rand()*10);
+  print "[OBJECT " n "]"
+  if(random%2 == 1){
+    print "x=" rand() * 10
+  }else{
+    print "x=-" rand() * 10
+  }
+  if(randomy%2 == 1){
+    print "y=" rand() * 10
+  }else{
+    print "y=-" rand() * 10
+  }
+  print "mass=5e7"
+  print "v=0"
+  print "size=0.01"
+}
+print "[Heavy]"
+print "x=0"
+print "y=0"
+print "mass=9e20"
+print "size = 1"
+print "[universe]"
+print "afterImage=0"
+print "timeLimit=0"
+print "fineness=5e-3"
+print "zoom=30"
+print "gravity=0"
+print "sleep=0"
+print "status=0"
+print "LazyDraw=1"
+print "#This is the rate of energy that will be lost by collision"
+print "LosingEnergyByCollision=0.01"
+}

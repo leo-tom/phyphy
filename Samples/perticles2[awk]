@@ -1,0 +1,34 @@
+ 
+BEGIN{
+for(n=1;n<=1000;n++){
+  random = int(rand() * 300);
+  random2 = int(rand() * 300);
+  randomy = int(rand()*300) + rand();
+  print "[OBJECT " n "]"
+  if(random%2 == 1){
+    print "x=" (random % 150) + rand()
+  }else{
+    print "x=-" (random % 150) + rand()
+  }
+  print "y=" randomy 
+  if(random2 %2 == 1){
+    print "charge=-1e-4"
+    print "color=black"
+  }else{
+    print "charge=1e-4"
+    print "color=black"
+  }
+  print "mass=1e-2"
+  print "v=0"
+  print "size=1"
+}
+print "[universe]"
+print "afterImage=false"
+print "timeLimit=0"
+print "fineness=1e-2"
+print "zoom=1e-2"
+print "gravity=0"
+print "sleep=0"
+print "status=0"
+}
+  

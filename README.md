@@ -1,2 +1,0 @@
-# phyphy
-Hackable physical engine

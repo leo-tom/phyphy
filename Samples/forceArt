@@ -1,0 +1,38 @@
+[Object A]
+v=0
+#in degree
+v_direction=45
+f=t/200
+f_direction=t
+color=black
+x=30000
+y=0
+#size=0 means object is mass point
+size=1
+mass=10
+charge=0
+[Object B]
+v=0
+#in degree
+v_direction=45
+f=-t/200
+f_direction=t
+color=black
+x=-30000
+y=0
+#size=0 means object is mass point
+size=1
+mass=10
+charge=0
+[universe]
+timeLimit=0
+zoom=1e-2
+delta_t=1e-1
+gravity=0
+status=0
+format=%.3f
+permittivity=8.854e-12
+afterImage=1
+sleep=0
+t=0
+LazyDraw=0

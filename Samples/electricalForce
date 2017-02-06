@@ -1,0 +1,40 @@
+[Object A]
+v=0
+color=green
+x=0
+y=0
+#size=0 means object is mass point
+size=3
+mass=5000
+charge=1e-3
+[Object B]
+v=80
+color=red
+size=3
+x=10
+v_direction=90
+mass=10
+charge=-1e-4
+[Object C]
+v=80
+color=red
+size=3
+x=-10
+v_direction=270
+mass=10
+charge=-1e-4
+[universe]
+timeLimit=0
+zoom=5.5
+fineness=1e-4
+gravity=0
+#Output status of objects once per n * fineness.
+#Set value of status to 0 to disable output of status to output stream
+#Disabling it makes rendering much faster
+status=0
+format=%.3f
+permittivity=8.854e-12
+afterImage=0
+sleep=0
+LazyDraw=10
+thread=5
